@@ -75,6 +75,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="src\Demo.html" />
+    <Content Include="src\Index.html" />
+    <Content Include="src\Index.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
